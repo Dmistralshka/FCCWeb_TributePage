@@ -1,6 +1,6 @@
 
 * {
-    font-family: 'American Typewriter', sans-serif;
+    font-family: sans-serif;
     color: #D8E8CC;
 }
 
@@ -38,7 +38,7 @@ body {
 
 #tribute-info {
     display: flex;
-    max-width: 1000px;
+    max-width: 1200px;
     flex-direction: column;
     align-items: center;
     font-size: 20px;
